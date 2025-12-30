@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 } */
+
+
+body{
+  width: 100%;
+  height: clamp(100vh);
+  background-color: #2c453c !important;
+}
+
+a {
+  text-decoration: none !important;
+}
